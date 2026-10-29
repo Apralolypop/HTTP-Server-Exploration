@@ -1,0 +1,17 @@
+
+# Compiled object files and executables
+*.o
+*.out
+*.exe
+
+# Build directories
+build/
+cmake-build-*/
+
+# Debugging output
+core
+core.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
